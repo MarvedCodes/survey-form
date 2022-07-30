@@ -37,7 +37,7 @@ body::before {
       hsl(74, 32%, 32%, 0.7),
       hsl(32, 65%, 62%, 0.3)
     ),
-    url("/assets/img/survey.jpg");
+    url("./assets/img/survey.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
